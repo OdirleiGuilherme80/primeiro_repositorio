@@ -1,0 +1,2 @@
+realizando configuraão de git e github, para assim poder subir 
+todo os estudos e projetos em python. 
